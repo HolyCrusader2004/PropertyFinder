@@ -23,16 +23,16 @@ Features
    Transitions between components are animated using Framer Motion, providing a seamless user experience.
    
 Tech Stack
-Frontend
-  React: For building a responsive and interactive user interface.
-  React Query: For managing server state and data fetching.
-  Framer Motion: For animations and smooth transitions between components.
-Backend
-  Node.js: Backend server runtime.
-  Express: Web framework for building the API.
-  MongoDB: NoSQL database for storing property and user data.
-Authentication
-  JWT (JSON Web Tokens): For secure authentication and user session management.
+  Frontend
+    React: For building a responsive and interactive user interface.
+    React Query: For managing server state and data fetching.
+    Framer Motion: For animations and smooth transitions between components.
+  Backend
+    Node.js: Backend server runtime.
+    Express: Web framework for building the API.
+    MongoDB: NoSQL database for storing property and user data.
+  Authentication
+    JWT (JSON Web Tokens): For secure authentication and user session management.
 
 Installation
 To run this project locally, follow these steps:
@@ -82,6 +82,7 @@ Open your browser and visit http://localhost:3000 to start using PropertyFinder.
 Some screenshots with the app
 Homescreen
 ![image](https://github.com/user-attachments/assets/4c0f20a9-3d43-4381-b0a6-1ec02be3b2a1)
+![image](https://github.com/user-attachments/assets/b50179de-addf-4238-9e0e-a210865bf25a)
 ![image](https://github.com/user-attachments/assets/99f0fe76-7c8d-4570-b4c4-75cf626a6999)
 
 Register Screen
