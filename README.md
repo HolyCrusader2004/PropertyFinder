@@ -23,60 +23,59 @@ Features
    Transitions between components are animated using Framer Motion, providing a seamless user experience.
    
 Tech Stack
-  Frontend
-    React: For building a responsive and interactive user interface.
-    React Query: For managing server state and data fetching.
-    Framer Motion: For animations and smooth transitions between components.
-  Backend
-    Node.js: Backend server runtime.
-    Express: Web framework for building the API.
-    MongoDB: NoSQL database for storing property and user data.
-  Authentication
-    JWT (JSON Web Tokens): For secure authentication and user session management.
+
+  1.Frontend
+      React: For building a responsive and interactive user interface.
+      React Query: For managing server state and data fetching.
+      Framer Motion: For animations and smooth transitions between components.
+      
+  2.Backend
+      Node.js: Backend server runtime.
+      Express: Web framework for building the API.
+      MongoDB: NoSQL database for storing property and user data.
+      
+  3.Authentication
+      JWT (JSON Web Tokens): For secure authentication and user session management.
 
 Installation
 To run this project locally, follow these steps:
 
 Clone the Repository:
-
 bash
 Copy code
 git clone https://github.com/your-username/PropertyFinder.git
 cd PropertyFinder
+
 Backend Setup:
-
 Navigate to the backend directory and install dependencies:
-
 bash
 Copy code
 cd backend
 npm install
-Create a .env file in the backend folder to store environment variables:
 
+Create a .env file in the backend folder to store environment variables:
 bash
 Copy code
 MONGO_URI=your-mongodb-uri
 JWT_SECRET=your-jwt-secret
-Start the backend server:
 
+Start the backend server:
 bash
 Copy code
 npm start
+
 Frontend Setup:
-
 Navigate to the frontend directory and install dependencies:
-
 bash
 Copy code
 cd frontend
 npm install
 Start the frontend server:
-
 bash
 Copy code
 npm start
-Access the App:
 
+Access the App:
 Open your browser and visit http://localhost:3000 to start using PropertyFinder.
 
 Some screenshots with the app
