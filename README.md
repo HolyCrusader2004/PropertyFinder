@@ -1,5 +1,6 @@
 PropertyFinder
-PropertyFinder is a full-stack web application that allows users to browse and book properties for their next holiday. The app provides features to search, filter, and manage properties, along with authentication, wishlist management, and smooth animations between components.
+
+  PropertyFinder is a full-stack web application that allows users to browse and book properties for their next holiday. The app provides features to search, filter, and manage properties, along with authentication, wishlist management, and smooth animations between components.
 
 Features
 1. Browse & Book Properties
